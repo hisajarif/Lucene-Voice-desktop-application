@@ -1,0 +1,8 @@
+Step 1 	: 	add Source folder path in Source path
+step 2	:	add dir to store index files in Index path
+Step 3	:	click Start indexing, 
+step 4	:	go to Search tab, enter keywords or query and search. or use voice interface.
+
+For second time you only need to provide the Index path(Step 2) and follow Step 4.
+
+voice interface only sapport words (yes | no |  money |  phone | tree | cancer | christmas | market | modi | corruption )
